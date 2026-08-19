@@ -1,0 +1,25 @@
+{
+  "name": "map-coord-search",
+  "label": "Map Coordinate Search",
+  "type": "widget",
+  "version": "1.0.0",
+  "exbVersion": "1.14.0",
+  "author": "Uzspace",
+  "description": "Expandable coordinate search that zooms Custom Map to WGS84 / DMS coordinates.",
+  "copyright": "",
+  "license": "http://www.apache.org/licenses/LICENSE-2.0",
+  "icon": "icon.svg",
+  "dependency": "jimu-arcgis",
+  "properties": {
+    "hasSettingPage": true,
+    "hasStyle": false
+  },
+  "translatedLocales": [
+    "en",
+    "ru"
+  ],
+  "defaultSize": {
+    "width": 48,
+    "height": 48
+  }
+}
