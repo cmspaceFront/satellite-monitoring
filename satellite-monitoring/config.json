@@ -1,3 +1,4 @@
 {
-  "geologyLayerUrl": "https://sgm.uzspace.uz/server/rest/services/Land/murojat/FeatureServer/1"
+  "geologyLayerUrl": "https://sgm.uzspace.uz/server/rest/services/Test/murojaat_temp_ip/MapServer/0",
+  "murojatApiBaseUrl": "https://murojat-api.sgm.uzspace.uz"
 }
