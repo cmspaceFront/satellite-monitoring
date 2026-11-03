@@ -1,11 +1,13 @@
 {
   "name": "satellite-monitoring",
   "label": "satellite monitoring",
+  "type": "widget",
   "description": "satellite monitoring dashboard",
   "version": "1.0.0",
   "exbVersion": "1.14.0",
   "author": "satellite",
   "icon": "icon.svg",
+  "dependency": "jimu-arcgis",
   "properties": {
     "hasSettingPage": true,
     "hasStyle": false
